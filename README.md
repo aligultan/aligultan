@@ -17,14 +17,56 @@
 
 <br/>
 
+---
+
+### 💻 Languages
+
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="48" title="C#"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=swift" height="48" title="Swift"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" height="48" title="Dart"/>
+</div>
 
-### Languages · Frameworks · Tools
+<br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css" height="48"/><br/>
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,mysql,redis" height="48"/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode" height="48"/>
+### 🧩 Frameworks & Libraries
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET Core"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="48" title="React"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" title="Node.js"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" height="48" title="Flutter"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="48" title="Express.js"/>
+</div>
+
+<br/>
+
+### 🗄️ Databases & Caching
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="48" title="SQL Server"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="48" title="Redis"/>
+</div>
+
+<br/>
+
+### ⚙️ DevOps & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" title="Kubernetes"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" title="Visual Studio"/>
 </div>
 
 <br/>
@@ -37,7 +79,7 @@
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-68217A?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-0078D4?style=flat-square)
