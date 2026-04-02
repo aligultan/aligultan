@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ali Gültan
-### Software Developer · .NET Backend
+### Software Developer · .NET Backend Developer
 ##### Graduated @ Trakya University · Computer Engineering
 
 <br/>
@@ -47,7 +47,7 @@
 ### 🗄️ Databases & Caching
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="48" title="SQL Server"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" title="SQL Server"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="48" title="PostgreSQL"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL"/>&nbsp;
