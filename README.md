@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ali Gültan
-### Software Developer · .NET Backend Developer
+### Software Developer | .NET Backend Developer
 ##### Graduated @ Trakya University · Computer Engineering
 
 <br/>
