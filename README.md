@@ -1,21 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f6e,100:0078D4&height=200&section=header&text=Ali%20Gültan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descSize=20&descAlignY=60&descColor=aaaaaa" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aligultan&style=flat-square&color=0e75b6&label=Profile+Views"/>
-
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/aligultan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aligultanx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+# Ali Gültan
+### Software Developer · .NET Backend
+##### Graduated @ Trakya University · Computer Engineering
 
 <br/>
+
+<a href="https://www.linkedin.com/in/aligultan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aligultanx@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=aligultan&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
+
+</div>
 
 ---
 
@@ -69,8 +68,6 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" title="Visual Studio"/>
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
@@ -115,8 +112,4 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aligultan&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:1a1f6e,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
